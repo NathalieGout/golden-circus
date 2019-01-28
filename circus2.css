@@ -1,0 +1,184 @@
+*
+{
+	background-color: black;
+	color:#fff;
+}
+header
+{
+	background-image: url(images/piste.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 100%;
+}
+
+
+h1
+{
+	text-align: center;
+	font-size: 120px;
+	margin-right: 50px;
+	background-image: url(images/piste.jpg);
+	display: inline-block;
+	margin-left: 300px;
+	color:#f2d940;
+
+	opacity: 0.8;
+	
+}
+#menu li
+{
+	list-style: none;
+	display: inline-block;
+	float: right;
+	margin-right: 40px;
+	margin-top: 1px;
+	font-size: 20px;
+	background-color: #f2d940; 
+	text-decoration: overline;
+	
+}
+
+#description li
+{
+	list-style: none;
+	display: inline-block;
+	color:#ff3300;
+
+}
+
+h3
+{
+
+ text-align: center;
+ color:#ff3300;
+}
+.rire 
+{
+	background-image: url(images/clowns.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 600px;
+	color: #fff;
+	margin-top: 85px;
+	
+}
+
+.reve
+{
+	background-image: url(images/illusion.jpeg);
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 650px;
+	color: #fff;
+	margin-top: 63px;
+}
+.felin
+{
+	background-image: url(images/tigre.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 500px;
+	color: #fff;
+	margin-top: 110px;
+}
+p
+{
+	width:300px;
+	margin: 30px;
+	font-size: 20px;
+	
+	text-align: center;
+
+
+}
+
+h2
+{
+	color: #f2d940;
+	
+}
+#prices
+{
+	margin-top: 50px;
+}
+table {
+	margin-top: 30px;
+ border-collapse:collapse;
+ width:90%;
+border-style: ridge;
+color: red;
+ }
+
+ th
+ {
+ 	color: #f2d940;
+ }
+th, td {
+ border:1px solid #f2d940;
+ width:20%;
+ 
+ }
+td 
+{
+ text-align:center;
+color: red;
+ }
+.tarif
+{
+color: red;
+margin-bottom: 2%;
+border-style: ridge;
+}
+
+#contact
+{
+	margin-top: 50px;
+}
+
+input[type="text"]
+{
+padding: 10px;
+font-size: 20px;
+margin-right: 20px;
+border: 2px solid red;
+border-radius:3px ;
+margin-top: 30px;
+
+}
+
+.button:hover
+{
+	background:red;
+	color:#fff;
+}
+article
+{
+	font-size: 20px;
+}
+
+
+
+footer
+{
+	background-color: #f2d940;
+	height: 100px;
+	margin-top: 100px;
+	opacity: 0.8;
+}
+
+.nat 
+
+{	
+	color: black;
+	background-color: #f2d940;
+	display: inline-block;
+	text-align: center;
+	margin-left: 35%;
+	font-size: 22px;
+
+	
+ }
+.buttonreturn
+{
+	position: right;
+}
